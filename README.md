@@ -36,4 +36,4 @@ To execute the SQL queries:
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
